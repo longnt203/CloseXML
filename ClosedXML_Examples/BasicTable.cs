@@ -14,6 +14,7 @@ namespace ClosedXML_Examples
             //Adding a worksheet
             var ws = wb.Worksheets.Add("Contacts");
 
+
             //Adding text
             //Title
             ws.Cell("B2").Value = "Contacts";

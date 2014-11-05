@@ -1,0 +1,9 @@
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\bin\Debug\ClosedXML_Examples.exe.config
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\bin\Debug\ClosedXML_Examples.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\bin\Debug\ClosedXML_Examples.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\bin\Debug\ClosedXML.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\bin\Debug\DocumentFormat.OpenXml.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\bin\Debug\ClosedXML.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\obj\Debug\ClosedXML_Examples.csprojResolveAssemblyReference.cache
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\obj\Debug\ClosedXML_Examples.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Examples\obj\Debug\ClosedXML_Examples.pdb

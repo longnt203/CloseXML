@@ -1,0 +1,12 @@
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\ClosedXML_Tests.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\ClosedXML_Tests.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\ClosedXML.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\ClosedXML_Examples.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\DocumentFormat.OpenXml.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\nunit.framework.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\ClosedXML.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\ClosedXML_Examples.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\bin\Debug\nunit.framework.xml
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\obj\Debug\ClosedXML_Tests.csprojResolveAssemblyReference.cache
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\obj\Debug\ClosedXML_Tests.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Tests\obj\Debug\ClosedXML_Tests.pdb

@@ -1,0 +1,7 @@
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Package\bin\Debug\ClosedXML_Package.exe.config
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Package\bin\Debug\ClosedXML_Package.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Package\bin\Debug\ClosedXML_Package.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Package\bin\Debug\Ionic.Zip.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Package\obj\x86\Debug\ClosedXML_Package.csprojResolveAssemblyReference.cache
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Package\obj\x86\Debug\ClosedXML_Package.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Package\obj\x86\Debug\ClosedXML_Package.pdb

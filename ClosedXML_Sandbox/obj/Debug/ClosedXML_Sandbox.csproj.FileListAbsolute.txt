@@ -1,1 +1,11 @@
 D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\ClosedXML_Sandbox.exe.config
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\ClosedXML_Sandbox.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\ClosedXML_Sandbox.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\ClosedXML.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\ClosedXML_Examples.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\DocumentFormat.OpenXml.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\ClosedXML.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\bin\Debug\ClosedXML_Examples.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\obj\Debug\ClosedXML_Sandbox.csprojResolveAssemblyReference.cache
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\obj\Debug\ClosedXML_Sandbox.exe
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Sandbox\obj\Debug\ClosedXML_Sandbox.pdb

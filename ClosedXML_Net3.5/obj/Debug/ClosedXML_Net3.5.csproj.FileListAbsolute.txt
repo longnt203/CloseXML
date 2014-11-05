@@ -1,0 +1,6 @@
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Net3.5\bin\Debug\ClosedXML.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Net3.5\bin\Debug\ClosedXML.pdb
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Net3.5\bin\Debug\DocumentFormat.OpenXml.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Net3.5\obj\Debug\ClosedXML_Net3.5.csprojResolveAssemblyReference.cache
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Net3.5\obj\Debug\ClosedXML.dll
+D:\TEMP DATA\GitHub\ClosedXML\ClosedXML_Net3.5\obj\Debug\ClosedXML.pdb
